@@ -763,3 +763,4 @@ CONFIG_XZ_DEC=y
 
 # External modules converted to config options
 CONFIG_TOUCHSCREEN_FTS=y
+CONFIG_QCA_CLD_WLAN=y
